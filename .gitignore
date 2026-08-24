@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+
+# Editor/OS temp files
+*.swp
+*.swo
+*~
