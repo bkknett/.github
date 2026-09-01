@@ -1,8 +1,3 @@
-<!--
-  Thanks for opening a pull request! Please fill out the sections below.
-  Keep the PR focused and reasonably small to make review easier.
--->
-
 ## Description
 <!-- Say something about What is done, Why it's done and any Curiosities. -->
 
@@ -10,11 +5,9 @@
 
 <!-- Link issues this PR addresses, e.g. "Closes #123" or "Relates to #456". -->
 
-- Closes #
+- Closes AB#
 
 ## Type of Change
-
-<!-- Put an `x` in the boxes that apply. -->
 
 - [ ] 🐛 Bug fix (non-breaking change that fixes an issue)
 - [ ] ✨ New feature (non-breaking change that adds functionality)
